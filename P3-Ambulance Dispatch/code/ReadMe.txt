@@ -1,0 +1,1 @@
+Run it directly by DEV-C++。

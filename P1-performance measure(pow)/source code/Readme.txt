@@ -1,0 +1,1 @@
+Run it directly by DEV-C++，put the number and power,and you will get what you want quickly.

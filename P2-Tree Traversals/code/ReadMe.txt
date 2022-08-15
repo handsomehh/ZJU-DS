@@ -1,0 +1,1 @@
+Open the DEVC++ and run it directly
